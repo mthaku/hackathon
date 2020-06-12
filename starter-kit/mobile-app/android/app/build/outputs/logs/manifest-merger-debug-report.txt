@@ -1,0 +1,349 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:@react-native-community_geolocation] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-community_geolocation] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-config] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-config/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/66749cf772b363f5ee18ff9ee169932c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/66b0ed0c7fbd03785ebfa559008a023e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.1] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/2101dbded88561959bad6bcdd15b5ac8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8415594dd42fad1662188b58c3f943e2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/ed49b4a2a23fc3c6211f960815103054/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a44345aabc1873f565216732c7bcf721/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/3813ac23d04f58f028c1fafec8247539/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/582be841e6f33e87790e48936aa8fe8b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/5baacdd5371129d844693af4aa5c6b8b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/f0d3b28c428c3a46a049f1ad1c0897ee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/4df7160c1fa74a4b660faeb051fcfb1c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a1a12c48ad6a3b8a77509893cd11687e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/81da73928a6d91fe30e3fc58a538be4f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1b0641326b9fd9beb78a364f6b4af0e8/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1c50054342e280a6659106204c91f057/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/85aa9fe4f1f5ec96ce2481f7c9c0eb9f/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/f6f2ea119a811aff2f13276f71779a95/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/122c287fe7cc29869ba26cf68b90867f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e10239bf835bac34b12abd13ddc182b4/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/fa39bfde895401ddddebc1930522d263/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/c833a55914fbc5f5c2c733921c8708c2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/51eb4d3a8637d466c4618ad0fe4f680e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/03450763733d0a33b4583e587d40dfd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/9f40379f5603970d3ee78bfeb721c4d6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/74059165d7fe6316ce4d0e80006046d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/c5929b513e16f0ed021f83bc014d0d8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/b62ac7370635d56b7ba949ba44646ba1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1cb4d061fd6bd53985b18fe2be3cd379/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/9e837adc8cbbe361c2f516f7e7a6d6c2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/0fa9bff5241991eda0050b4923acf1e7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/4d5afd564e884b5d3947210f63138eaa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8391b829a537fe11540496c356a10f71/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/911377719b96b691154b5da05e960acb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e25210661ba2b14f4e48fe5ae79239ba/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a6629407370b5a2ae1c463e4f48e2e0a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/19183c26b2b7be84f8130e9d18649707/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/c62d854a07900622193a1795be95a40e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1b871926686aa43cf0d6cdb7a0f6c5fa/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/ac015f4277c6c796aa36253ed430e978/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/5704a52b0b01e34164fa523e90c54f4d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/604892cd9c813a4b6c0c161167e39cad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1177af66123085f84cde32c72e7cae60/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/cd4dfd60482050ab33132bbe29e54515/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/22f1a48c4854353811ae6691f124b593/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/da844cb9a859c09ba44e03a38d57491a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a99e9cb7e4c8527e9ecc96f9ab50c8c0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/97f1c70246f414637a84f6064c3a5b4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/4062d2075a1d32d26d2cac0ab0fef4cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8b8e90356c17085e4810de44cc5b38ae/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:2:3-53
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8415594dd42fad1662188b58c3f943e2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8415594dd42fad1662188b58c3f943e2/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/66749cf772b363f5ee18ff9ee169932c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/66749cf772b363f5ee18ff9ee169932c/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.1] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/2101dbded88561959bad6bcdd15b5ac8/AndroidManifest.xml:7:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.1] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/2101dbded88561959bad6bcdd15b5ac8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8415594dd42fad1662188b58c3f943e2/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8415594dd42fad1662188b58c3f943e2/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/ed49b4a2a23fc3c6211f960815103054/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/ed49b4a2a23fc3c6211f960815103054/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1b0641326b9fd9beb78a364f6b4af0e8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1b0641326b9fd9beb78a364f6b4af0e8/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/85aa9fe4f1f5ec96ce2481f7c9c0eb9f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/85aa9fe4f1f5ec96ce2481f7c9c0eb9f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/f6f2ea119a811aff2f13276f71779a95/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/f6f2ea119a811aff2f13276f71779a95/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/122c287fe7cc29869ba26cf68b90867f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/122c287fe7cc29869ba26cf68b90867f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e10239bf835bac34b12abd13ddc182b4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e10239bf835bac34b12abd13ddc182b4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e25210661ba2b14f4e48fe5ae79239ba/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e25210661ba2b14f4e48fe5ae79239ba/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a6629407370b5a2ae1c463e4f48e2e0a/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a6629407370b5a2ae1c463e4f48e2e0a/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e25210661ba2b14f4e48fe5ae79239ba/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.solutionstarterkitcooperation2020app.MainActivity
+ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_geolocation] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_geolocation] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-config/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-config/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/66749cf772b363f5ee18ff9ee169932c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/66749cf772b363f5ee18ff9ee169932c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/66b0ed0c7fbd03785ebfa559008a023e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/66b0ed0c7fbd03785ebfa559008a023e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8415594dd42fad1662188b58c3f943e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8415594dd42fad1662188b58c3f943e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/ed49b4a2a23fc3c6211f960815103054/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/ed49b4a2a23fc3c6211f960815103054/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a44345aabc1873f565216732c7bcf721/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a44345aabc1873f565216732c7bcf721/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/3813ac23d04f58f028c1fafec8247539/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/3813ac23d04f58f028c1fafec8247539/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/582be841e6f33e87790e48936aa8fe8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/582be841e6f33e87790e48936aa8fe8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/5baacdd5371129d844693af4aa5c6b8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/5baacdd5371129d844693af4aa5c6b8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/f0d3b28c428c3a46a049f1ad1c0897ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/f0d3b28c428c3a46a049f1ad1c0897ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/4df7160c1fa74a4b660faeb051fcfb1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/4df7160c1fa74a4b660faeb051fcfb1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a1a12c48ad6a3b8a77509893cd11687e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a1a12c48ad6a3b8a77509893cd11687e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/81da73928a6d91fe30e3fc58a538be4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/81da73928a6d91fe30e3fc58a538be4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1b0641326b9fd9beb78a364f6b4af0e8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1b0641326b9fd9beb78a364f6b4af0e8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1c50054342e280a6659106204c91f057/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1c50054342e280a6659106204c91f057/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/85aa9fe4f1f5ec96ce2481f7c9c0eb9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/85aa9fe4f1f5ec96ce2481f7c9c0eb9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/f6f2ea119a811aff2f13276f71779a95/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/f6f2ea119a811aff2f13276f71779a95/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/122c287fe7cc29869ba26cf68b90867f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/122c287fe7cc29869ba26cf68b90867f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e10239bf835bac34b12abd13ddc182b4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e10239bf835bac34b12abd13ddc182b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/fa39bfde895401ddddebc1930522d263/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/fa39bfde895401ddddebc1930522d263/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/c833a55914fbc5f5c2c733921c8708c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/c833a55914fbc5f5c2c733921c8708c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/51eb4d3a8637d466c4618ad0fe4f680e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/51eb4d3a8637d466c4618ad0fe4f680e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/03450763733d0a33b4583e587d40dfd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/03450763733d0a33b4583e587d40dfd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/9f40379f5603970d3ee78bfeb721c4d6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/9f40379f5603970d3ee78bfeb721c4d6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/74059165d7fe6316ce4d0e80006046d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/74059165d7fe6316ce4d0e80006046d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/c5929b513e16f0ed021f83bc014d0d8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/c5929b513e16f0ed021f83bc014d0d8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/b62ac7370635d56b7ba949ba44646ba1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/b62ac7370635d56b7ba949ba44646ba1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1cb4d061fd6bd53985b18fe2be3cd379/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1cb4d061fd6bd53985b18fe2be3cd379/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/9e837adc8cbbe361c2f516f7e7a6d6c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/9e837adc8cbbe361c2f516f7e7a6d6c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/0fa9bff5241991eda0050b4923acf1e7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/0fa9bff5241991eda0050b4923acf1e7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/4d5afd564e884b5d3947210f63138eaa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/4d5afd564e884b5d3947210f63138eaa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8391b829a537fe11540496c356a10f71/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8391b829a537fe11540496c356a10f71/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/911377719b96b691154b5da05e960acb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/911377719b96b691154b5da05e960acb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e25210661ba2b14f4e48fe5ae79239ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e25210661ba2b14f4e48fe5ae79239ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a6629407370b5a2ae1c463e4f48e2e0a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a6629407370b5a2ae1c463e4f48e2e0a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/19183c26b2b7be84f8130e9d18649707/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/19183c26b2b7be84f8130e9d18649707/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/c62d854a07900622193a1795be95a40e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/c62d854a07900622193a1795be95a40e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1b871926686aa43cf0d6cdb7a0f6c5fa/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1b871926686aa43cf0d6cdb7a0f6c5fa/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/ac015f4277c6c796aa36253ed430e978/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/ac015f4277c6c796aa36253ed430e978/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/5704a52b0b01e34164fa523e90c54f4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/5704a52b0b01e34164fa523e90c54f4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/604892cd9c813a4b6c0c161167e39cad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/604892cd9c813a4b6c0c161167e39cad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1177af66123085f84cde32c72e7cae60/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/1177af66123085f84cde32c72e7cae60/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/cd4dfd60482050ab33132bbe29e54515/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/cd4dfd60482050ab33132bbe29e54515/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/22f1a48c4854353811ae6691f124b593/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/22f1a48c4854353811ae6691f124b593/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/da844cb9a859c09ba44e03a38d57491a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/da844cb9a859c09ba44e03a38d57491a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a99e9cb7e4c8527e9ecc96f9ab50c8c0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/a99e9cb7e4c8527e9ecc96f9ab50c8c0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/97f1c70246f414637a84f6064c3a5b4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/97f1c70246f414637a84f6064c3a5b4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/4062d2075a1d32d26d2cac0ab0fef4cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/4062d2075a1d32d26d2cac0ab0fef4cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8b8e90356c17085e4810de44cc5b38ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8b8e90356c17085e4810de44cc5b38ae/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.1] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/2101dbded88561959bad6bcdd15b5ac8/AndroidManifest.xml:5:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.1] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/2101dbded88561959bad6bcdd15b5ac8/AndroidManifest.xml:5:22-107
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: com.android.installreferrer has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: com.android.installreferrer has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: com.android.installreferrer requested WRITE_EXTERNAL_STORAGE
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8415594dd42fad1662188b58c3f943e2/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/8415594dd42fad1662188b58c3f943e2/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/85aa9fe4f1f5ec96ce2481f7c9c0eb9f/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/85aa9fe4f1f5ec96ce2481f7c9c0eb9f/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/85aa9fe4f1f5ec96ce2481f7c9c0eb9f/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/85aa9fe4f1f5ec96ce2481f7c9c0eb9f/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e10239bf835bac34b12abd13ddc182b4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e10239bf835bac34b12abd13ddc182b4/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mayurit/.gradle/caches/transforms-2/files-2.1/e10239bf835bac34b12abd13ddc182b4/AndroidManifest.xml:24:13-58

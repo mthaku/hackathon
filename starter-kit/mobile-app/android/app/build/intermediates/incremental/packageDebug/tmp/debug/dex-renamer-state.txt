@@ -1,0 +1,4 @@
+#Fri Jun 05 18:39:28 IST 2020
+base.0=/Users/mayurit/Personal Projects/Solution-Starter-Kit-Cooperation-2020-master/starter-kit/mobile-app/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
