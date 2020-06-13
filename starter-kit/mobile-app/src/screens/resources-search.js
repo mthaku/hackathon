@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   searchResultText: {
     fontFamily: 'IBMPlexSans-Bold',
     padding: 10,
-    color: '#1062FE'
+    color: '#ff7700'
   },
   flatListView: {
     backgroundColor: '#FFF'

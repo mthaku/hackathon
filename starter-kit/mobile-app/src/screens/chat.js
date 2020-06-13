@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
   },
   waText: {
     fontFamily: 'IBMPlexSans-Medium',
-    backgroundColor: '#D0E2FF',
+    backgroundColor: '#ffca9b',
     padding: 10,
     alignSelf: 'flex-start',
     maxWidth: '85%'
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
   },
   anchorLink: {
     fontFamily: 'IBMPlexSans-Medium',
-    color: '#1062FE',
+    color: '#ff7700',
     padding: 2.5
   },
   chatText: {
