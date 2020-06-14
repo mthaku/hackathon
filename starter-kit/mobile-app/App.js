@@ -25,6 +25,7 @@ const ResourcesStackOptions = ({ navigation }) => {
   return ({
     headerRight: () => (
       <Button
+        color='#ff8c00'
         onPress={() => navigation.navigate('Chat')}
         title='Chat '
       />
@@ -43,20 +44,11 @@ const DonationsStackOptions = ({ navigation }) => {
   });
 };
 
-const RegisterStackOptions = ({ navigation }) => {
-  return ({
-    headerRight: () => (
-      <Button
-        onPress={() => navigation.navigate('Register')}
-        title='Register '
-      />
-    )
-  });
-};
+
 
 const tabBarOptions = {
   // showLabel: false,
-  activeTintColor: '#1062FE',
+  activeTintColor: '#ff7700',
   inactiveTintColor: '#000',
   style: {
     backgroundColor: '#F1F0EE',
@@ -76,13 +68,13 @@ const TabLayout = () => (
         tabBarIcon: ({color}) => (<HomeIcon fill={color}/>)
       }}
     />
-    <Tab.Screen
+    {/* <Tab.Screen
       name='Donate'
       component={DonateStackLayout}
       options={{
         tabBarIcon: ({color}) => (<DonateIcon fill={color} />)
       }}
-    />
+    /> */}
     <Tab.Screen
       name='User Register'
       component={RegisterStackLayout}
@@ -118,7 +110,7 @@ const SearchStackLayout = () => (
 
 const RegisterStackLayout = () => (
   <Stack.Navigator>
-    <Stack.Screen name='Register' component={Register} options={RegisterStackOptions} />
+    <Stack.Screen name='Register' component={Register}  />
   </Stack.Navigator>
 );
 

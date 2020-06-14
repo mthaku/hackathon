@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   outerView: {
     flex: 1,
     padding: 22,
-    backgroundColor: '#FFF',
+    backgroundColor: '#fff',
   },
   splitView: {
     flexDirection: 'row',
@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
   },
   selector: {
     fontFamily: 'IBMPlexSans-Medium',
-    borderColor: '#D0E2FF',
+    borderColor: '#ff8c00',
     borderWidth: 2,
     padding: 16,
     marginBottom: 25,
@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
   textInput: {
     fontFamily: 'IBMPlexSans-Medium',
     flex: 1,
-    borderColor: '#D0E2FF',
+    borderColor: '#ff8c00',
     borderWidth: 2,
     padding: 14,
     marginBottom: 25,
@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     marginBottom: 25,
   },
   button: {
-    backgroundColor: '#1062FE',
+    backgroundColor: '#ff8c00',
     color: '#FFFFFF',
     fontFamily: 'IBMPlexSans-Medium',
     fontSize: 16,
@@ -89,11 +89,10 @@ const Register = function({navigation}) {
     type: 'Event',
     userType: 'Beneficiary',
     name: '',
-    description: '',
+    address: '',
     pan: '',
-    contact: '',
-    quantity: '1',
-  };
+    contact: ''
+    };
   const [item, setItem] = React.useState(clearItem);
 
   React.useEffect(() => {
@@ -107,11 +106,11 @@ const Register = function({navigation}) {
 
     add(payload)
       .then(() => {
-        Alert.alert('Thank you!', 'Your item has been added.', [{text: 'OK'}]);
+        Alert.alert('Thank you!', 'Registration Successful.', [{text: 'OK'}]);
         setItem({...clearItem});
       })
       .catch(err => {
-        console.log(err);
+        console.log(err,"err----");
         Alert.alert(
           'ERROR',
           'Please try again. If the problem persists contact an administrator.',
@@ -175,8 +174,8 @@ const Register = function({navigation}) {
       <Text style={styles.label}>Address</Text>
       <TextInput
         style={styles.textInput}
-        value={item.description}
-        onChangeText={t => setItem({...item, description: t})}
+        value={item.address}
+        onChangeText={t => setItem({...item, address: t})}
         onSubmitEditing={sendItem}
         returnKeyType="send"
         enablesReturnKeyAutomatically={true}

@@ -1,0 +1,5 @@
+/.idea/
+/starter-kit/mobile-app/.env
+/starter-kit/server-app/.env
+/starter-kit/mobile-app/node_modules/
+/starter-kit/server-app/node_modules/
